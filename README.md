@@ -25,10 +25,10 @@ Systems Engineer building at the intersection of Web3 and modern web development
 
 ## Stack
 
-**Languages:** TypeScript, JavaScript, Python, Solidity
-**Frontend:** React, Next.js, React Native
-**Web3:** Ethers.js, Wagmi, RainbowKit, Hardhat
-**Backend:** Node.js, PostgreSQL, GraphQL
+- **Languages:** TypeScript, JavaScript, Python, Solidity
+- **Frontend:** React, Next.js, React Native
+- **Web3:** Ethers.js, Wagmi, RainbowKit, Hardhat
+- **Backend:** Node.js, PostgreSQL, GraphQL
 
 ## Connect
 
