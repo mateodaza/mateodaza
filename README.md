@@ -9,14 +9,19 @@ Systems Engineer building at the intersection of Web3 and modern web development
 
 ## Projects
 
-- **Sippy** — Crypto payments through WhatsApp
+- **Sippy** — Crypto payments through WhatsApp (ETHOnline 2025 Finalist)
 - **Galeon** — Private transactions via ZK, stealth addresses and privacy pools
+- **Prisma DIDs** — Decentralized identity for Cardano (Catalyst Fund14 grant)
 
 ## Previously
 
 - **Giveth** — Donation platform for public goods
 - **Token Engineering Commons** — DAO infrastructure and token engineering
-- **BlossomLabs** — Web3 tooling and smart contracts
+- **DexFreight** — Blockchain logistics platform (500 Startups Miami)
+
+## Community
+
+- **Ethereum Colombia** — Co-founder, 20+ events, supported Devcon VI Bogotá
 
 ## Stack
 
