@@ -33,7 +33,7 @@ Systems Engineer building at the intersection of Web3 and modern web development
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@mateodazab-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/mateodazab)
-[![LinkedIn](https://img.shields.io/badge/-Mateo%20Daza-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateodaza)
+[![LinkedIn](https://img.shields.io/badge/-Mateo%20Daza-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-daza-448469170)
 
 ---
 
