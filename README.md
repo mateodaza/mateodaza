@@ -4,20 +4,20 @@ Systems Engineer building at the intersection of Web3 and modern web development
 
 ## Currently
 
-- **Myosin** — Building AI-powered products
-- **Asymmetry Finance** — DeFi protocol development
+- **[Myosin](https://myosin.xyz/hivemind)** — Building AI-powered products
+- **[Asymmetry Finance](https://www.asymmetry.finance/)** — DeFi protocol development
 
 ## Projects
 
-- **Sippy** — Crypto payments through WhatsApp (ETHOnline 2025 Finalist)
-- **Galeon** — Private transactions via ZK, stealth addresses and privacy pools
+- **[Sippy](https://www.sippy.lat/)** — Stablecoin payments through WhatsApp (ETHOnline 2025 Finalist)
+- **[Galeon](https://www.galeon.finance/)** — Compliance-ready privacy for real-world payments
 - **Prisma DIDs** — Decentralized identity for Cardano (Catalyst Fund14 grant)
 
 ## Previously
 
-- **Giveth** — Donation platform for public goods
-- **Token Engineering Commons** — DAO infrastructure and token engineering
-- **DexFreight** — Blockchain logistics platform (500 Startups Miami)
+- **[Giveth](https://giveth.io/)** — Donation platform for public goods
+- **[Token Engineering Commons](https://tecommons.org/)** — DAO infrastructure and token engineering
+- **[DexFreight](https://www.dexfreight.io/)** — Blockchain logistics platform (500 Startups Miami)
 
 ## Community
 
