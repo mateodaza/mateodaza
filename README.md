@@ -11,7 +11,6 @@ Systems Engineer building at the intersection of Web3 and modern web development
 
 - **[Sippy](https://www.sippy.lat/)** — Stablecoin payments through WhatsApp (ETHOnline 2025 Finalist)
 - **[Galeon](https://www.galeon.finance/)** — Compliance-ready privacy for real-world payments
-- **Prisma DIDs** — Decentralized identity for Cardano (Catalyst Fund14 grant)
 
 ## Previously
 
